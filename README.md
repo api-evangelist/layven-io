@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Layven provides a shared drive for AI agents, enabling them to read and write the same files with versioning, undo, and secure storage. The platform supports agents like Claude, ChatGPT, Gemini, and integrates with tools such as Slack. Data resides in the EU, and the company adheres to GDPR, offering a clear privacy policy and contact via info@layven.io. Layven is a trading name of Trueguard OÜ, an Estonian company.
+Layven provides a shared drive for AI agents, enabling them to read and write the same files with versioned undo capabilities. The platform supports agents like Claude, ChatGPT, and Gemini, offering secure, signed writes, collaborative workspaces, and full version history. It includes a flat‑rate pricing model with free tier, and features such as connector guides, knowledge base, and privacy‑focused data handling. Layven aims to simplify AI‑agent collaboration across teams, providing a unified storage and activity log for all agent interactions.
 
-**Areas:** AI · Collaboration · Storage · GDPR · Estonia · SharedDrive
+**Areas:** AI · Collaboration · Storage · VersionControl · AgentPlatform
 
 ## Layven on APIs.io
 
@@ -74,7 +74,7 @@ Everything profiled for Layven is published on APIs.io rather than in this repos
 
 ### APIs (1)
 
-- [Layven API](https://apis.io/apis/layven-io/layven-api/) — Layven provides shared drive and collaboration services.
+- [Layven API](https://apis.io/apis/layven-io/layven-api/) — Layven API (no public documentation)
 
 ### Published properties
 
@@ -96,16 +96,16 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 10.9** — minimal · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 13.9** — emerging · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
+| Discoverability | 66.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 0.0 |
-| Access clarity | 27.7 |
+| Access clarity | 34.2 |
 
 **Agent readiness 21.8** — agent-aware
 
@@ -134,7 +134,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/layven-io/](https://apis.io/providers/layven-io/).
 
